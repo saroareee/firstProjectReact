@@ -1,0 +1,57 @@
+.container{
+    width: 1600px;
+    
+}
+.mar_top_btm{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.bg{
+    background: rgb(15, 193, 63);
+}
+.block{
+display: block;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.center{
+    text-align: center;
+}
+.w-60{
+    width: 60%;
+}
+.w-40{
+    width: 40%;
+}
+.w-30{
+    width: 30%;
+}
+.space-bet{
+    justify-content: space-between;
+}
+.padding{
+    padding: 5px;
+    font-size: 24px; 
+}
+.one{
+    background: red;
+    padding: 5px;
+    font-size: 24px;
+}
+.two{
+    background: green;
+    padding: 5px;
+    font-size: 24px;
+}
+.three{
+    background: yellow;
+    padding: 20px;
+    font-size: 18px;
+}
+.four{
+    background: blue;
+    padding: 5px;
+    font-size: 24px;
+}
